@@ -2,3 +2,5 @@ first file
 editing
 
 new change for stash
+
+a new change
